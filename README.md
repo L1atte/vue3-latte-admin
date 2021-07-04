@@ -1,4 +1,4 @@
-# vue3-latte-admin
+# vue3-admin
 
 ## Project setup
 ```

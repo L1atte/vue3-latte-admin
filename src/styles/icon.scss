@@ -1,0 +1,50 @@
+i[class^=icon] {
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-position: 0 0;
+  background-size: 100% 100%;
+}
+
+//svg图标
+.svg-class {
+  width: 1em;
+  height: 1em;
+  fill: currentColor;
+}
+
+.aside-svg {
+  font-size: 20px;
+}
+
+.home {
+  background-image: url("~@/assets/images/home.png");
+}
+
+.forget {
+  background-image: url("~@/assets/images/forget.png");
+}
+
+.login {
+  background-image: url("~@/assets/images/login.png");
+}
+
+.newsIndex {
+background-image: url("~@/assets/images/newsIndex.png");
+}
+
+.register {
+background-image: url("~@/assets/images/register.png");
+}
+
+.role {
+background-image: url("~@/assets/images/role.png");
+}
+
+.user {
+background-image: url("~@/assets/images/user.png");
+}
+
+.icon-size-21 {
+  width: 21px;
+  height: 21px;
+}
